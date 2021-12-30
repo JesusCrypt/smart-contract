@@ -1,7 +1,7 @@
 # $JESUS README
 
 ### Doc
-This is the solidity code for Jesus Crypt smart contract
+This is the solidity code for Jesus Crypt smart contract, based on BEP20
 
 ### Social 
 * [Jesus Crypt NFT's Web Page](https://jesuscryptcoin.com/)
