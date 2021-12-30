@@ -1,14 +1,15 @@
-# Read Me First
-The following was discovered as part of building this project:
+# $JESUS README
 
-* The original package name 'heaven.jesuscrypt.smart-contract' is invalid and this project uses 'heaven.jesuscrypt.smartcontract' instead.
+### Doc
+This is the solidity code for Jesus Crypt smart contract
 
-# Getting Started
+### Social 
+* [Jesus Crypt NFT's Web Page](https://jesuscryptcoin.com/)
+* [Jesus Crypt Twitter](https://twitter.com/JesusCryptCoin)
+* [Jesus Crypt Instagram](https://www.instagram.com/jesuscryptcoin/)
+* [Jesus Crypt Telegram](https://t.me/+FykKJlrfqn8yZDhk)
+* [Jesus Crypt Email](info@jesuscryptcon.com)
 
-### Reference Documentation
-For further reference, please consider the following sections:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.2/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.6.2/maven-plugin/reference/html/#build-image)
+
 
